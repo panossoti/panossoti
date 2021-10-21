@@ -6,12 +6,12 @@
 
 - 🐣  Working on my skills: currently experimenting with NLTK and NLP frameworks
 
-- 🎓  I am currently pursuing my MSc in Computer Science @ Warwick University BSc in Economics & Finance from Surrey University 🦌
+- 🎓  I am currently pursuing my MSc in Computer Science at Warwick University, BSc in Economics & Finance from Surrey University 🦌
 
 - 🏀🏀 Passionate about the use of Machine Learning in basketball, did my first ever algorithm implementation on it you can check it out on my profile! 
   - [Undergrad Thesis](https://github.com/panossoti/NBA-thesis-projectdis)
 
-- Aspiring to become a great Data Scientist one day 😎😎
+- Aspiring to become a great Data Scientist 😎😎
 
 - Something about me : Always down for an adventure !🥽
 
