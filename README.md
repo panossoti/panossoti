@@ -4,7 +4,7 @@
 
 
 
-- 🐣  Working on my skills: currently experimenting with NLTK and NLP frameworks chech my first project on it [Sentiment Analysis](https://github.com/panossoti/Natural-Language-Processing-)
+- 🐣  Working on my skills: currently experimenting with NLTK and NLP frameworks. check my first project on it : [Sentiment Analysis](https://github.com/panossoti/Natural-Language-Processing-)
 
 - 🎓  I am currently pursuing my MSc in Computer Science at Warwick University, BSc in Economics & Finance from Surrey University 🦌
 
