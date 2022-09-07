@@ -6,7 +6,7 @@
 
 - 🐣  Working on my skills: currently experimenting with NLTK and NLP frameworks. check my first project on it : [Sentiment Analysis](https://github.com/panossoti/Natural-Language-Processing-)
 
-- 🎓  I am currently pursuing my MSc in Computer Science at Warwick University, BSc in Economics & Finance from Surrey University 🦌
+- 🎓 MSc in Computer Science at Warwick University, BSc in Economics & Finance from Surrey University 🦌
 
 - 🏀🏀 Passionate about the use of Machine Learning in basketball, did my first ever algorithm implementation on it you can check it out on my profile! 
   - [Undergrad Thesis](https://github.com/panossoti/NBA-thesis-projectdis)
